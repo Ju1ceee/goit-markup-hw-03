@@ -2,11 +2,23 @@
   background-color: #f4f4fd;
 }
 
+.section-team .text-size-h2 {
+  margin-bottom: 72px;
+}
+
+.section-team ul {
+  display: flex;
+  gap: 24px;
+}
+
 .section-team li {
   background-color: #ffffff;
 }
 
-.section-team li h3,
-.section-team li p {
-  text-align: center;
+.team-item-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  padding: 32px 16px;
 }
