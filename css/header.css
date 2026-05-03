@@ -12,12 +12,6 @@
   margin-left: auto;
 }
 
-/* Лівий контент хедера */
-.header-left-content {
-  display: flex;
-  align-items: center;
-}
-
 /* Логотип */
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -29,7 +23,7 @@
   color: #2e2f42;
 }
 
-.header-left-content .logo {
+.header .logo {
   margin-right: 76px;
 }
 
