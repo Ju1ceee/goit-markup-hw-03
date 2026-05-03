@@ -45,7 +45,7 @@ img {
 }
 
 .container {
-  width: 1158px;
+  max-width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -76,6 +76,10 @@ img {
   line-height: 1.2;
   color: #2e2f42;
   letter-spacing: 0.02em;
+}
+
+.text-align-center {
+  text-align: center;
 }
 
 .button {

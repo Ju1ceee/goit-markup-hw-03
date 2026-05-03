@@ -6,12 +6,12 @@
   margin-bottom: 72px;
 }
 
-.section-team ul {
+.section-team .team-list {
   display: flex;
   gap: 24px;
 }
 
-.section-team li {
+.section-team .team-item {
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
   overflow: hidden;

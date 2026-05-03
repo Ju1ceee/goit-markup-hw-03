@@ -4,11 +4,11 @@
 }
 
 .section-hero .container {
-  max-width: 496px;
-  padding: 0;
   text-align: center;
 }
 
 .section-hero .text-size-h1 {
+  margin: 0 auto;
+  max-width: 496px;
   margin-bottom: 48px;
 }
