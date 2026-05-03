@@ -3,6 +3,12 @@
   padding: 100px 0;
 }
 
+.footer .container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 .footer .logo {
   color: #f4f4fd;
 }
@@ -13,4 +19,5 @@
 
 .footer p {
   color: #f4f4fd;
+  max-width: 264px;
 }
