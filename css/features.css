@@ -1,0 +1,8 @@
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+
+.features-list li h3 {
+  margin-bottom: 8px;
+}
